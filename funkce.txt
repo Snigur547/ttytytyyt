@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 funkce fdffdfdfddfvdvd
+=======
+funkce fdffdfdfd sddssd
+>>>>>>> oprava-chyb
